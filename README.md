@@ -56,8 +56,6 @@ What do you want to do:
 
 **main.py**: The main script containing the password manager logic.
 
-**requirements.txt**: List of required Python libraries.
-
 **.gitignore**: Excludes sensitive or unnecessary files from being pushed to the repository.
 
 # Example Workflow
